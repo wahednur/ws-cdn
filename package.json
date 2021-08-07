@@ -1,0 +1,24 @@
+{
+  "name": "@wahednur/wahednur-cdn",
+  "version": "1.0.0",
+  "description": "Wahed Nur css, js, font icon cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahednur/ws-cdn.git"
+  },
+  "keywords": [
+    "Wahed",
+    "Nur",
+    "CDN"
+  ],
+  "author": "Wahed Nur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahednur/ws-cdn/issues"
+  },
+  "homepage": "https://github.com/wahednur/ws-cdn#readme"
+}
