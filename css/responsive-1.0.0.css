@@ -802,7 +802,7 @@ Tags: WS, Wahed Nur, Boilerplate, HTML5, CSS,
 }
 /* 5th column end  */
 /* 7th Column start  */
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
     .col-7th {
         flex: 1 0 0%;
     }
